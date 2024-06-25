@@ -1,5 +1,5 @@
 CC = clang
-CFLAGS = -Wall -Wextra -std=c18 -O2
+CFLAGS = -Wall -Wextra -std=c18 -g -O0
 
 SRC_DIR = src
 BUILD_DIR = build
